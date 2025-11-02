@@ -67,7 +67,7 @@ const Hero = () => {
             
             {/* Floating Badge */}
             <div className="absolute -bottom-6 -left-6 bg-card border-2 border-border rounded-2xl p-6 shadow-xl">
-              <div className="text-4xl font-heading font-bold text-primary">15+</div>
+              <div className="text-4xl font-body font-bold text-primary">15+</div>
               <div className="text-sm text-muted-foreground">Years Experience</div>
             </div>
           </div>
