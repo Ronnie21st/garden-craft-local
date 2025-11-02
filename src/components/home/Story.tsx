@@ -54,7 +54,7 @@ const Story = () => {
                 { number: "5★", label: "Local Reviews" }
               ].map((stat) => (
                 <div key={stat.label} className="text-center">
-                  <div className="text-3xl font-heading font-bold text-primary">
+                  <div className="text-3xl font-body font-bold text-primary">
                     {stat.number}
                   </div>
                   <div className="text-sm text-muted-foreground mt-1">
